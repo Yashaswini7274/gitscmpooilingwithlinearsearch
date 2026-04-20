@@ -2,7 +2,7 @@ public class LinearSearch {
     public static void main(String[] args) {
 
         int[] arr = {1, 2, 3, 4, 5};
-        int key = 3;
+        int key = 5;
 
         int pos = -1;
 
